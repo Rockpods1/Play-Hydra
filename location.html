@@ -27,12 +27,12 @@
     <script>
         let p = document.getElementsByTagName("P")[0];
         const Http = new XMLHttpRequest();
-        const url = 'https://play-hydra.herokuapp.com/';
+        const url = 'https://nmsqvl.csb.app/location.txt';
         Http.open("GET", url);
         Http.send();
         Http.onreadystatechange = (e) => {
             console.log(Http.responseText);
-            p.innerHTML = `PLAYHYDRA can currently be found at https://play-hydra.herokuapp.com/`;
+            p.innerHTML = `PLAYHYDRA can currently be found at <a href="${Http.responseText}">${Http.responseText}</a>`;
         }
     </script>
 </body>
