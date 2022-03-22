@@ -133,7 +133,7 @@
     </div>
     <!-- hey there, code digger -->
     <!-- https://lps7x.csb.app/assets/css/thing.txt -->
-    <sub><em>BROUGHT TO YOU BY THE STUDENTS OF MMS</em></sub>
+    <sub><em>BROUGHT TO YOU BY THE STUDENTS OF QHE</em></sub>
     <script>
         function search() {
             let input = document.getElementById("searchbar");
