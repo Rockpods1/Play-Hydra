@@ -130,6 +130,11 @@
                 href="/game.html?title=Bloons Tower Defense 4&width=600&height=600&url=https://scratch.mit.edu/projects/62965100/embed">Bloons
                 Tower Defense 4</a>
         </div>
+        <div class="search-item">
+            <img src="assets/images/radius-raid.jpg" alt="Radius Raid" class="search-img" />
+            <a
+                href="games/radius-raid/radius-raid.html">Radius Raid</a>
+        </div>
     </div>
     <!-- hey there, code digger -->
     <!-- https://lps7x.csb.app/assets/css/thing.txt -->
